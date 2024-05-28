@@ -19,7 +19,7 @@ print("Contenido de pila_ambos_episodios:")
 print(pila_ambos_episodios)
 
 
-""" En Python dada una pila de personajes de Marvel Cinematic Universe (MCU), de los cuales se dispone de su nombre y la cantidad de películas de la saga en la que participó, implementar las funciones necesarias para resolver las siguientes actividades:
+"""Dada una pila de personajes de Marvel Cinematic Universe (MCU), de los cuales se dispone de su nombre y la cantidad de películas de la saga en la que participó, implementar las funciones necesarias para resolver las siguientes actividades:
 a. determinar en qué posición se encuentran Rocket Raccoon y Groot, tomando como posición
 uno la cima de la pila;
 b. determinar los personajes que participaron en más de 5 películas de la saga, además indicar
